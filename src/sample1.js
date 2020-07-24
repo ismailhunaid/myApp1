@@ -10,7 +10,7 @@ class Sample1 extends Component{
 
 
         const menu = this.props.name; // single variable
-        const saal = this.props.age;
+        const saal = this.props.name;
 
 const {name,age , qualification} = this.props; // destructuring 
 
