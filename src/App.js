@@ -10,6 +10,7 @@ import Sample10 from './sample10';
 import Sample12 from './sample12';
 import Sample13 from './sample13';
 import Sample14 from './sample14';
+import Sample15 from './sample15';
 
 class App extends Component{
  
@@ -55,6 +56,7 @@ class App extends Component{
 <Sample13 />
           </div>
           <Sample14 />
+          <Sample15 />
       </div>
     )
   }
