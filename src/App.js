@@ -15,6 +15,8 @@ import Sample15 from './sample15';
 class App extends Component{
  
 
+  https://github.com/ismailhunaid/reactapp1
+
   render(){
 
     return(
@@ -25,7 +27,8 @@ class App extends Component{
 
        
         <h1>
-        this my root component hunaid hatim bhai 
+        this my root component hunaid hatim bhai hatim bhaai
+        ammar bhai
         </h1>
 
      
