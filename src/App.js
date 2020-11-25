@@ -25,11 +25,11 @@ class App extends Component{
 
        
         <h1>
-        this my root component 
+        this my root component ismail hunaid
         </h1>
 
      
-<Sample1  name="Hatim"  age="28" qualification="Haafiz" />
+<Sample1  name="huzefa saifuddin"  age="28" qualification="Haafiz" />
                   
                     
         
