@@ -25,7 +25,7 @@ class App extends Component{
 
        
         <h1>
-        this my root component ismail hunaid
+        this my root component hunaid hatim bhai 
         </h1>
 
      
