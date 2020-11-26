@@ -19,7 +19,9 @@ class Sample7 extends Component{
          
          
            <h4> this is sample7 a practice to passing data from parent to children 
-               using class component</h4>
+               using class component
+               
+               hello world </h4>
             
 
           
