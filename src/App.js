@@ -27,7 +27,7 @@ class App extends Component{
 
        
         <h1>
-        this my root component hunaid hatim bhai hatim bhaai
+         this is my root APP   git add remote command testing 
 
 
         ammar bhai
